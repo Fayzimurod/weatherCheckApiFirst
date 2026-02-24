@@ -23,3 +23,17 @@ A simple and elegant web application to display current weather information for 
 - JavaScript (ES6+)
 - OpenWeatherMap API
 
+## 🎯 How to Use
+
+1. Enter a city name in the search box
+2. Click the "Search" button or press Enter
+3. Get current weather information:
+   - Temperature
+   - Weather description
+   - Corresponding weather icon
+
+## ⚠️ Error Handling
+
+- **"City not found!"** - Check if the city name is spelled correctly
+- **Empty response** - Verify your API key is valid
+- **Icons not loading** - Check your internet connection
