@@ -1,3 +1,7 @@
+<!-- <p>
+Dodgy
+</p> -->
+
 # Weather App 🌤️
 
 A simple and elegant web application to display current weather information for any city worldwide. The app uses OpenWeatherMap API to fetch real-time weather data.
