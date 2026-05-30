@@ -4,7 +4,8 @@ A simple and elegant web application to display current weather information for 
 
 <!-- <p>Environment only for commit.</p> -->
 <!-- <p>
-This is first.
+This is first commit.
+This is second commit.
 </p> -->
 
 ## 📸 Screenshot
